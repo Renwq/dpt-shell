@@ -4,7 +4,7 @@ package com.luoye.dpt.config;
  * @author luoyesiqiu
  */
 public class Const {
-    public static final String PROGRAM_VERSION = "2.7.1";
+    public static final String PROGRAM_VERSION = "2.8.0";
 
     public static final String OPTION_OPEN_NOISY_LOG_LONG = "noisy-log";
 
@@ -54,12 +54,12 @@ public class Const {
 
     public static final String RC4_KEY_SYMBOL = "DPT_UNKNOWN_DATA";
 
-    public static final String KEY_SHELL_CONFIG_STORE_NAME = "d_shell_data_001";
-    public static final String KEY_DEXES_STORE_NAME = "i11111i111.zip";
-    public static final String KEY_DEXES_STORE_UNALIGNED_NAME = "i11111i111_unaligned.zip";
-    public static final String KEY_CODE_ITEM_STORE_NAME = "OoooooOooo";
-    public static final String KEY_LIBS_DIR_NAME = "vwwwwwvwww";
+    public static final String KEY_SHELL_CONFIG_STORE_NAME = "r_bind_data";
+    public static final String KEY_DEXES_STORE_NAME = "r_i111111.zip";
+    public static final String KEY_DEXES_STORE_UNALIGNED_NAME = "r_i111111_un.zip";
+    public static final String KEY_CODE_ITEM_STORE_NAME = "r_oo";
+    public static final String KEY_LIBS_DIR_NAME = "rvw";
     public static final String KEY_JNI_BASE_CLASS_NAME = "JniBridge";
-    public static final String DEFAULT_SHELL_PACKAGE_NAME = "com/luoyesiqiu/shell";
+    public static final String DEFAULT_SHELL_PACKAGE_NAME = "com/r/s";
 
 }
